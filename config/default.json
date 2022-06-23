@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey": "unsecured",
+    "stripeKey": "pk_test_51KoG3aJfkNghvlLSwunQ2vuYy8Og933CGy8CtOZRmDzk5kyKdD6OVFaFS4xPTAce2zg5haEh0lTwv4niKWsp4Mh800X6HD5OPk",
+    "port": "5000",
+    "db": "mongodb://localhost/shop"
+}
